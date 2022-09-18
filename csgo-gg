@@ -1,0 +1,26 @@
+#csgo config files
+
+#/home/csgoserver/serverfiles/csgo/cfg
+
+#csgoserver.cfg
+
+mp_limitteams 1
+mp_autoteambalance 0
+bot_kick
+mp_friendlyfire 1
+mp_afterroundmoney 16000
+mp_startmoney 16000
+game_type 1
+game_mode 0
+
+
+#gamemode_armsrace.cfg
+
+mp_limitteams 1
+mp_autoteambalance 0
+bot_kick
+mp_ggprogressive_random_weapon_kills_needed 1
+sv_ggprogressive_autosniper_first 0
+sv_ggprogressive_shotgun_last 0
+mp_randomspawn 1
+mp_teammates_are_enemies 1
